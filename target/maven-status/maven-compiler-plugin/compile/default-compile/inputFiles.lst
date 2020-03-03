@@ -1,0 +1,17 @@
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/service/impl/ClienteServiceImpl.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/config/ServerStartedInitializingBean.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/model/ClienteDTO.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/FpsAppWsAltaclienteApplication.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/interceptor/jpa/AltaClienteEntityInterceptor.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/util/Util.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/config/TomcatConfig.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/entity/Cliente.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/rest/ClienteRest.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/service/ClienteService.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/assembler/cliente/ClienteAssembler.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/config/SwaggerConfig.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/entity/base/BaseEntity.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/entity/base/AuditingEntity.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/facade/ClienteFacade.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/model/ClienteFechaDTO.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/main/java/pe/farmaciasperuanas/fpsappwsaltacliente/repository/ClienteRepository.java

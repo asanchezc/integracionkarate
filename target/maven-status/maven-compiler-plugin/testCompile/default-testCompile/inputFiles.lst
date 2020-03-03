@@ -1,0 +1,6 @@
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/test/java/config/ServerStart.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/test/java/altacliente/ClienteRunner.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/test/java/config/ServerStop.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/test/java/config/TestBase.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/test/java/config/Stoppable.java
+/Users/roysanchez/Documents/Workspace/backend/Karate-Api-Testing/src/test/java/config/MonitorThread.java

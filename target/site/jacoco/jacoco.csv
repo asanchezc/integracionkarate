@@ -1,0 +1,17 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.entity.base,AuditingEntity,7,3,0,0,3,1,2,1,2,1
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.rest,ClienteRest,19,23,0,0,4,6,1,2,1,2
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.assembler.cliente,ClienteAssembler,13,39,0,2,2,6,2,2,2,1
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.facade,ClienteFacade,8,20,0,0,3,7,1,2,1,2
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.service.impl,ClienteServiceImpl,6,10,0,0,2,4,1,2,1,2
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.interceptor.jpa,AltaClienteEntityInterceptor,28,3,6,0,6,1,4,1,1,1
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.util,Util,10,45,0,0,5,7,2,1,2,1
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.config,TomcatConfig,0,8,0,0,0,2,0,2,0,2
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.config,TomcatConfig.new EmbeddedServletContainerCustomizer() {...},0,24,1,1,0,5,1,2,0,2
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.config,SwaggerConfig,0,14,0,0,0,6,0,2,0,2
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.config,TomcatConfig.1.new TomcatContextCustomizer() {...},0,12,0,0,0,3,0,2,0,2
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.config,ServerStartedInitializingBean,0,29,0,0,0,8,0,5,0,5
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente,FpsAppWsAltaclienteApplication,4,7,0,0,2,2,1,2,1,2
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.entity,Cliente,46,15,0,0,18,6,8,5,8,5
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.model,ClienteDTO,46,0,0,0,20,0,10,0,10,0
+Demo,pe.farmaciasperuanas.fpsappwsaltacliente.model,ClienteFechaDTO,20,33,0,0,10,12,5,6,5,6
