@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="altacliente.ClienteRunner" time="16.682" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="altacliente.ClienteRunner" time="17.599" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib"/>
@@ -26,17 +26,19 @@
     <property name="line.separator" value="
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="https.proxyHost" value="latam-proxy.glb.lnm.bns"/>
     <property name="os.name" value="Mac OS X"/>
     <property name="classworlds.conf" value="/Users/roysanchez/.sdkman/candidates/maven/current/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/roysanchez/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="http.proxyPort" value="8000"/>
     <property name="maven.conf" value="/Users/roysanchez/.sdkman/candidates/maven/current/conf"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="10.15.1"/>
-    <property name="library.jansi.path" value="/Users/roysanchez/.sdkman/candidates/maven/current/lib/jansi-native"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|intranet|*.intranet|intranet|*.intranet|localhost|*.localhost|intranet.scotiabank.com.pe|*.intranet.scotiabank.com.pe|sharepoint|*.sharepoint|intranetrh|*.intranetrh|intranetcs|*.intranetcs|ihrpassport|*.ihrpassport|intranet.scotiabank.com.pe|*.intranet.scotiabank.com.pe|sbpe|*.sbpe|sudameris.com.pe|*.sudameris.com.pe|scotiaenlinea.domdesa.sbpe|*.scotiaenlinea.domdesa.sbpe|cams.scotiabank.com|*.cams.scotiabank.com|bns|*.bns|apple.com|*.apple.com|luqui.com.pe|*.luqui.com.pe|wer.microsoft.com|*.wer.microsoft.com|autodiscover.lnm.scotiabank.com.pe|*.autodiscover.lnm.scotiabank.com.pe|autodiscover.scotiabank.com.pe|*.autodiscover.scotiabank.com.pe|10.33.4.204|172.19.27.40|10.8.26.156|10.237.245.60|172.19.27.41|172.19.27.41|10.237.25.99|10.237.245.19|192.168.94.58|172.19.135.158|10.237.18.225|10.237.18.225|10.237.25.148|10.237.245.100|10.237.25.216|10.237.18.150|10.237.18.150|www.odbcmanager.net|*.www.odbcmanager.net|cheat.sh|*.cheat.sh"/>
+    <property name="library.jansi.path" value="/Users/roysanchez/.sdkman/candidates/maven/current/lib/jansi-native"/>
     <property name="user.home" value="/Users/roysanchez"/>
     <property name="user.timezone" value="America/Lima"/>
     <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
@@ -54,6 +56,7 @@
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.version" value="1.8.0_242"/>
     <property name="java.ext.dirs" value="/Users/roysanchez/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="http.proxyHost" value="latam-proxy.glb.lnm.bns"/>
     <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/classes"/>
     <property name="java.vendor" value="AdoptOpenJDK"/>
     <property name="maven.home" value="/Users/roysanchez/.sdkman/candidates/maven/current"/>
@@ -61,9 +64,10 @@
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="https.proxyPort" value="8000"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|intranet|*.intranet|intranet|*.intranet|localhost|*.localhost|intranet.scotiabank.com.pe|*.intranet.scotiabank.com.pe|sharepoint|*.sharepoint|intranetrh|*.intranetrh|intranetcs|*.intranetcs|ihrpassport|*.ihrpassport|intranet.scotiabank.com.pe|*.intranet.scotiabank.com.pe|sbpe|*.sbpe|sudameris.com.pe|*.sudameris.com.pe|scotiaenlinea.domdesa.sbpe|*.scotiaenlinea.domdesa.sbpe|cams.scotiabank.com|*.cams.scotiabank.com|bns|*.bns|apple.com|*.apple.com|luqui.com.pe|*.luqui.com.pe|wer.microsoft.com|*.wer.microsoft.com|autodiscover.lnm.scotiabank.com.pe|*.autodiscover.lnm.scotiabank.com.pe|autodiscover.scotiabank.com.pe|*.autodiscover.scotiabank.com.pe|10.33.4.204|172.19.27.40|10.8.26.156|10.237.245.60|172.19.27.41|172.19.27.41|10.237.25.99|10.237.245.19|192.168.94.58|172.19.135.158|10.237.18.225|10.237.18.225|10.237.25.148|10.237.245.100|10.237.25.216|10.237.18.150|10.237.18.150|www.odbcmanager.net|*.www.odbcmanager.net|cheat.sh|*.cheat.sh"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|intranet|*.intranet|intranet|*.intranet|localhost|*.localhost|intranet.scotiabank.com.pe|*.intranet.scotiabank.com.pe|sharepoint|*.sharepoint|intranetrh|*.intranetrh|intranetcs|*.intranetcs|ihrpassport|*.ihrpassport|intranet.scotiabank.com.pe|*.intranet.scotiabank.com.pe|sbpe|*.sbpe|sudameris.com.pe|*.sudameris.com.pe|scotiaenlinea.domdesa.sbpe|*.scotiaenlinea.domdesa.sbpe|cams.scotiabank.com|*.cams.scotiabank.com|bns|*.bns|apple.com|*.apple.com|luqui.com.pe|*.luqui.com.pe|wer.microsoft.com|*.wer.microsoft.com|autodiscover.lnm.scotiabank.com.pe|*.autodiscover.lnm.scotiabank.com.pe|autodiscover.scotiabank.com.pe|*.autodiscover.scotiabank.com.pe|10.33.4.204|172.19.27.40|10.8.26.156|10.237.245.60|172.19.27.41|172.19.27.41|10.237.25.99|10.237.245.19|192.168.94.58|172.19.135.158|10.237.18.225|10.237.18.225|10.237.25.148|10.237.245.100|10.237.25.216|10.237.18.150|10.237.18.150|www.odbcmanager.net|*.www.odbcmanager.net|cheat.sh|*.cheat.sh"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="[cliente]" name="[1:8] Get all employee data" time="0.575"/>
+  <testcase classname="[cliente]" name="[1:8] Get all employee data" time="0.617"/>
 </testsuite>

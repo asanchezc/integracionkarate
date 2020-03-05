@@ -31,7 +31,7 @@
         <spring.boot.version>1.5.16.RELEASE</spring.boot.version>
         <jacoco.plugin.version>0.7.9</jacoco.plugin.version>        
         <cucumber.reporting.version>3.8.0</cucumber.reporting.version>
-            <karate.version>0.9.4</karate.version>
+        <karate.version>0.9.4</karate.version>
 </properties>
 
  <dependencies>        
@@ -50,7 +50,7 @@
 		</dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-websocket</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
             <version>${spring.boot.version}</version>
         </dependency>               
         <dependency>
